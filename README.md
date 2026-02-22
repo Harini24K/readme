@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Harini.K</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harini24k&label=Profile%20views&color=0e75b6&style=flat" alt="harini24k" /> </p>
+<p align="left"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/trophy.svg" 
+ alt="harini24k" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harini24k" alt="harini24k" /></a> </p>
 
@@ -24,7 +25,7 @@ alt="harini hackerrank" height="30" width="40" />
 
 <a href="https://leetcode.com/u/Harini_K1024/" target="blank">
 <img align="center" 
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" 
+src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" 
 alt="harini leetcode" height="30" width="40" />
 </a>
 
