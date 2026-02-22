@@ -69,13 +69,6 @@
 
 <br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harini24k&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harini24k&layout=compact&theme=radical" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harini24k&theme=radical" />
